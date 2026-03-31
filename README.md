@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### 💼 I’m working in OPPO（as an ops)
-#### 📫 How to reach me: luogewansui@gmail.com
+#### 💼 I’m working in OPPO（as SRE)
+#### 📫 How to reach me: me@sajo.cc
 <!--
 **Sajotim/Sajotim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
