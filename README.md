@@ -29,4 +29,4 @@ My cat. Orange tabby, wears a natural bib marking, has little white mittens, and
 - Email: me@sajo.cc
 - Weibo: [@HomoLive](https://www.weibo.com/homolive)
 
-*HomoLab Inc. 厂牌主理人（自封的*
+*HomoLab Inc. 厂牌主理人
