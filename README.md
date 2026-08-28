@@ -1,16 +1,28 @@
 ### Hi, I'm Sajo 👋
 
-Site Reliability Engineer @ OPPO, based in Shenzhen.
+Site Reliability Engineer at OPPO, based in Shenzhen.
 
-Graduated from Chongqing University of Posts and Telecommunications, where I spent my time at 红岩网校 building infrastructure — Kubernetes clusters, CI/CD pipelines, monitoring systems, and whatever else needed to stop catching fire.
+I build practical operations software: turning scripts and runbooks into maintainable systems with clear lifecycles, safe controls, and interfaces that help operators understand what is actually happening.
 
-#### What I Work With
+#### What I'm building
 
-- **Infra & Ops**: Linux, Kubernetes, Docker, Prometheus, Grafana
-- **CI/CD**: GitLab CI, container image pipelines
-- **AIOps**: Building intelligent operations platforms — rode the wave from workflow orchestration → agent systems → MCP → Skills → CLI era. Making ops less painful, one paradigm shift at a time.
-- **Tower**: An SRE tooling platform I built from scratch — plugin-based architecture, rapid deployment, full-stack (frontend + backend). One platform to rule them all.
-- **Misc**: Tampermonkey scripts, NFS storage provisioning, and putting out fires at 3am
+- **[ReliaForge](https://github.com/SajoLuo/reliaforge)** — a lifecycle-managed Python plugin platform for focused SRE tooling. It includes a FastAPI backend, a React operations console, bilingual documentation, and a [read-only live demo](https://demo.reliaforge.dev/).
+- **[Trellis × DeepSeek Harness](https://github.com/SajoLuo/dsh-trellis)** — a host integration that brings workflow context, session-safe task state, and native subagent synchronization to DSH. I also contributed the native DSH workflow path upstream to [Trellis](https://github.com/mindfold-ai/Trellis/pull/548).
+- **Homelab & device automation** — a GitOps-managed k3s lab, observability, network tooling, and small utilities born from real operational problems.
+
+#### Selected projects
+
+| Project | What it is |
+| --- | --- |
+| [ReliaForge Backend](https://github.com/SajoLuo/reliaforge-backend) | Extensible FastAPI service with dependency-aware plugin lifecycle management |
+| [ReliaForge Frontend](https://github.com/SajoLuo/reliaforge-frontend) | Bilingual React console with a safe, backend-free demo mode |
+| [dsh-trellis](https://github.com/SajoLuo/dsh-trellis) | Optional Trellis companion plugin for DeepSeek Harness |
+| [Astro HuxBlog](https://github.com/SajoLuo/astro-huxblog) | A modern Astro 6 + Tailwind CSS v4 take on the classic HuxBlog theme |
+| [OPPO Cloud Photo Bulk Delete](https://github.com/SajoLuo/oppo-cloud-photo-bulk-delete) | A safety-conscious userscript for auditable cloud photo cleanup and restore workflows |
+
+#### Toolbox
+
+Python · FastAPI · TypeScript · React · Kubernetes · Docker · GitOps · Prometheus · Grafana
 
 #### 🐱 Hobo
 
@@ -29,4 +41,4 @@ My cat. Orange tabby, wears a natural bib marking, has little white mittens, and
 - Email: me@sajo.cc
 - Weibo: [@HomoLive](https://www.weibo.com/homolive)
 
-*HomoLab Inc. 厂牌主理人
+*HomoLab Inc. 厂牌主理人*
