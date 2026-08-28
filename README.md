@@ -26,12 +26,9 @@ Python · FastAPI · TypeScript · React · Kubernetes · Docker · GitOps · Pr
 
 #### 🐱 Hobo
 
-```
-      ╱|、
-    (˚ˎ 。7
-     |、˜〵
-     じしˍ,)ノ
-```
+<p align="center">
+  <img src="assets/hobo.jpg" alt="Hobo, an orange tabby cat with a white bib and white paws" width="480">
+</p>
 
 My cat. Orange tabby, wears a natural bib marking, has little white mittens, and is — against all odds for an orange cat — not fat.
 
